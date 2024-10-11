@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about everything you want. I'm like a open book...
 - 📫 How to reach me: per eMail and here on GitHub
 - 😄 Pronouns: HE / HIS 
-- ⚡ Fun fact: I'm a rare french - german mix 
+- ⚡ Fun fact: I'm a rare french - german mix
 -->
