@@ -1,9 +1,4 @@
-## Hi there 👋
-
-<!--
-**jenessaispas/jenessaispas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+Hi there 👋
 
 - 🔭 I’m currently working on my coding skills
 - 🌱 I’m currently learning java and the concept of OOP, actually im studing IT specialist application development
@@ -12,5 +7,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about everything you want. I'm like a open book...
 - 📫 How to reach me: per eMail and here on GitHub
 - 😄 Pronouns: HE / HIS 
-- ⚡ Fun fact: I'm a rare french - german mix
--->
+- ⚡ Fun fact: I'm a rare french - german mix and i try's to be the yellow from the egg XD
+
